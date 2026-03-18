@@ -8,7 +8,7 @@
     - [1. Measuring time up to a point](#1-measuring-time-up-to-a-point)
     - [2. Direct results of earlier events](#2-direct-results-of-earlier-events)
     - [3. Experiences up to a point](#3-experiences-up-to-a-point)
-    - [4. Recent news / change / trend](#4-recent-news-change-trend)
+    - [4. Recent news, change and trend](#4-recent-news-change-and-trend)
 - [Simple or Continuous?](#simple-or-continuous)
 - [State verbs](#state-verbs)
 - [Time markers](#time-markers)
@@ -56,7 +56,7 @@ Perfect tenses are used to look back from a point in time at an earlier event, r
 | опыт к моменту в прошлом | Past Perfect | had + V3 | I’d already seen it ten times by then. |
 | опыт к моменту в будущем | Future Perfect | will have + V3 | By next year, I’ll have visited ten countries. |
 
-### 4. Recent news / change / trend
+### 4. Recent news, change and trend
 
 | Meaning | Tense | Form | Example |
 |--------|-------|------|---------|
