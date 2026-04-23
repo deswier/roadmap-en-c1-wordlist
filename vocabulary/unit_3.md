@@ -76,3 +76,4 @@
 | the previous section | N | предыдущий раздел | In the **previous section**, we looked at the causes of the problem. |
 | the following section | N | следующий раздел | In the **following section**, we will discuss possible solutions. |
 | in that case | A | в таком случае | **In that case**, we should wait for more information. |
+| so what happened is | A | и вот что произошло; суть в том, что произошло следующее | **So what happened is** that the sales team organised more meetings with potential clients. |
