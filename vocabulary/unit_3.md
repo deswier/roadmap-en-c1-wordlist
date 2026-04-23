@@ -50,3 +50,29 @@
 | perfectly straightforward | A | совершенно простой, предельно понятный | It is **perfectly straightforward** to search the title of the suspect story and add the word ‘fake’. |
 | completely misleading | A | полностью вводящий в заблуждение | A misrepresented photo can spread **completely misleading** information. |
 | perfectly credible | A | вполне правдоподобный, совершенно достоверный на вид | At first glance it seems **perfectly credible**. |
+
+
+# 3D - Clarity and Hidden Meaning
+
+| Word                            | Part of speech | Russian                                 | Example                                                                      |
+|---------------------------------|----------------|-----------------------------------------|------------------------------------------------------------------------------|
+| as clear as day                 | A | совершенно ясно, предельно понятно      | That was **as clear as day**, thanks.                                        |
+| can’t quite put my finger on it | V | не мочь точно понять, что именно не так | There’s something not right here, but I **can’t quite put my finger on it**. |
+| crystal clear                   | A | предельно ясно, абсолютно понятно       | **Crystal clear**, thanks.                                                   |
+| in plain English                | A | простыми словами, понятным языком       | OK, let me give it to you **in plain English**.                              |
+| as clear as mud                 | A | совершенно непонятно                    | I know. It was **as clear as mud**!                                          |
+| hidden agenda                   | N | скрытый мотив, скрытая цель             | She seems to have a bit of a **hidden agenda**.                              |
+
+
+# 3D - Summarising and Referring to Information
+
+| Word | Part of speech | Russian | Example |
+|------|----------------|---------|---------|
+| as follows | A | следующим образом | The main points are **as follows**. |
+| the gist of it | N | суть, основная идея | The **gist of it** is that we need more time. |
+| in a nutshell | A | кратко, в двух словах | **In a nutshell**, the plan failed because it was too expensive. |
+| the former / the latter | N | первый / последний | Of the two options, the **former** is cheaper and the **latter** is faster. |
+| not only that, but | A | не только это, но и | The report was late. **Not only that, but** it was inaccurate. |
+| the previous section | N | предыдущий раздел | In the **previous section**, we looked at the causes of the problem. |
+| the following section | N | следующий раздел | In the **following section**, we will discuss possible solutions. |
+| in that case | A | в таком случае | **In that case**, we should wait for more information. |
